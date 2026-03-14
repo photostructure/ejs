@@ -1,6 +1,7 @@
 {
   "name": "@photostructure/ejs",
-  "description": "Embedded JavaScript templates",
+  "description": "DEPRECATED: Use 'ejs' instead. Embedded JavaScript templates",
+  "deprecated": "This package is deprecated. Please use 'ejs' instead.",
   "keywords": [
     "template",
     "engine",
